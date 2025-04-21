@@ -1,4 +1,5 @@
 🌍 Global Pollution Analysis and Energy Recovery
+
 📌 Objective
 The aim of this project is to analyze global pollution data and build predictive models to:
 
